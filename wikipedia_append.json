@@ -19,7 +19,7 @@
     "delta": 120,
     "added": 120,
     "deleted": 0
-  },
+  }
   {
     "time": "2025-10-01T01:05:00Z",
     "channel": "#en.wikipedia",
@@ -41,7 +41,7 @@
     "delta": -5,
     "added": 0,
     "deleted": 5
-  },
+  }
   {
     "time": "2025-10-01T01:10:00Z",
     "channel": "#en.wikipedia",
@@ -63,7 +63,7 @@
     "delta": 200,
     "added": 200,
     "deleted": 0
-  },
+  }
   {
     "time": "2025-10-01T01:15:00Z",
     "channel": "#en.wikipedia",
@@ -85,7 +85,7 @@
     "delta": 30,
     "added": 30,
     "deleted": 0
-  },
+  }
   {
     "time": "2025-10-01T01:20:00Z",
     "channel": "#en.wikipedia",
@@ -108,3 +108,4 @@
     "added": 50,
     "deleted": 0
   }
+
